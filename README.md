@@ -4,6 +4,10 @@
   <br>
 </h1>
 
+<p align="center">
+  <img src="docs/logo.png">
+</p>
+
 <h4 align="center">A vector field visualizer coded in Java and Processing</h4>
 
 <p align="center">
